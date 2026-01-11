@@ -1,0 +1,404 @@
+{
+  "candles": [
+    {
+      "open": 100,
+      "close": 101.2573,
+      "high": 101.7892,
+      "low": 99.4259,
+      "candle_number": 1,
+      "color": "green"
+    },
+    {
+      "open": 101.2573,
+      "close": 101.5234,
+      "high": 101.6774,
+      "low": 101.0121,
+      "candle_number": 2,
+      "color": "green"
+    },
+    {
+      "open": 101.5234,
+      "close": 101.8561,
+      "high": 101.9661,
+      "low": 101.4234,
+      "candle_number": 3,
+      "color": "green"
+    },
+    {
+      "open": 101.8561,
+      "close": 103.1455,
+      "high": 103.8082,
+      "low": 101.5082,
+      "candle_number": 4,
+      "color": "green"
+    },
+    {
+      "open": 103.1455,
+      "close": 103.8839,
+      "high": 104.2641,
+      "low": 102.792,
+      "candle_number": 5,
+      "color": "green"
+    },
+    {
+      "open": 103.8839,
+      "close": 104.0695,
+      "high": 104.2604,
+      "low": 103.5909,
+      "candle_number": 6,
+      "color": "green"
+    },
+    {
+      "open": 104.0695,
+      "close": 104.5446,
+      "high": 104.7207,
+      "low": 103.9228,
+      "candle_number": 7,
+      "color": "green"
+    },
+    {
+      "open": 104.5446,
+      "close": 104.3935,
+      "high": 104.7139,
+      "low": 104.1835,
+      "candle_number": 8,
+      "color": "red"
+    },
+    {
+      "open": 104.3935,
+      "close": 103.3528,
+      "high": 104.7245,
+      "low": 102.8346,
+      "candle_number": 9,
+      "color": "red"
+    },
+    {
+      "open": 103.3528,
+      "close": 102.9991,
+      "high": 103.4528,
+      "low": 102.8724,
+      "candle_number": 10,
+      "color": "red"
+    },
+    {
+      "open": 102.9991,
+      "close": 103.1029,
+      "high": 103.4483,
+      "low": 102.667,
+      "candle_number": 11,
+      "color": "green"
+    },
+    {
+      "open": 103.1029,
+      "close": 102.1283,
+      "high": 103.3325,
+      "low": 101.9377,
+      "candle_number": 12,
+      "color": "red"
+    },
+    {
+      "open": 102.1283,
+      "close": 102.6324,
+      "high": 102.8445,
+      "low": 101.9082,
+      "candle_number": 13,
+      "color": "green"
+    },
+    {
+      "open": 102.6324,
+      "close": 102.3039,
+      "high": 102.8122,
+      "low": 102.1109,
+      "candle_number": 14,
+      "color": "red"
+    },
+    {
+      "open": 102.3039,
+      "close": 100.849,
+      "high": 102.6567,
+      "low": 100.175,
+      "candle_number": 15,
+      "color": "red"
+    },
+    {
+      "open": 100.849,
+      "close": 100.4692,
+      "high": 101.1245,
+      "low": 100.2211,
+      "candle_number": 16,
+      "color": "red"
+    },
+    {
+      "open": 100.4692,
+      "close": 99.4351,
+      "high": 100.8328,
+      "low": 98.7888,
+      "candle_number": 17,
+      "color": "red"
+    },
+    {
+      "open": 99.4351,
+      "close": 99.1102,
+      "high": 99.5909,
+      "low": 98.9693,
+      "candle_number": 18,
+      "color": "red"
+    },
+    {
+      "open": 99.1102,
+      "close": 98.2912,
+      "high": 99.6119,
+      "low": 97.9325,
+      "candle_number": 19,
+      "color": "red"
+    },
+    {
+      "open": 98.2912,
+      "close": 98.6278,
+      "high": 98.7661,
+      "low": 98.0879,
+      "candle_number": 20,
+      "color": "green"
+    },
+    {
+      "open": 98.6278,
+      "close": 98.2376,
+      "high": 98.7948,
+      "low": 97.897,
+      "candle_number": 21,
+      "color": "red"
+    },
+    {
+      "open": 98.2376,
+      "close": 97.7778,
+      "high": 98.4708,
+      "low": 97.5358,
+      "candle_number": 22,
+      "color": "red"
+    },
+    {
+      "open": 97.7778,
+      "close": 97.4715,
+      "high": 97.9187,
+      "low": 97.3715,
+      "candle_number": 23,
+      "color": "red"
+    },
+    {
+      "open": 97.4715,
+      "close": 97.5932,
+      "high": 97.747,
+      "low": 97.3003,
+      "candle_number": 24,
+      "color": "green"
+    },
+    {
+      "open": 97.5932,
+      "close": 98.8895,
+      "high": 99.3143,
+      "low": 97.0922,
+      "candle_number": 25,
+      "color": "green"
+    },
+    {
+      "open": 98.8895,
+      "close": 98.4923,
+      "high": 99.085,
+      "low": 98.3695,
+      "candle_number": 26,
+      "color": "red"
+    },
+    {
+      "open": 98.4923,
+      "close": 99.0455,
+      "high": 99.1758,
+      "low": 98.3585,
+      "candle_number": 27,
+      "color": "green"
+    },
+    {
+      "open": 99.0455,
+      "close": 98.4455,
+      "high": 99.202,
+      "low": 98.1696,
+      "candle_number": 28,
+      "color": "red"
+    },
+    {
+      "open": 98.4455,
+      "close": 99.3519,
+      "high": 99.7629,
+      "low": 98.1249,
+      "candle_number": 29,
+      "color": "green"
+    },
+    {
+      "open": 99.3519,
+      "close": 99.802,
+      "high": 100.0348,
+      "low": 99.1465,
+      "candle_number": 30,
+      "color": "green"
+    },
+    {
+      "open": 99.802,
+      "close": 101.132,
+      "high": 101.5509,
+      "low": 99.4456,
+      "candle_number": 31,
+      "color": "green"
+    },
+    {
+      "open": 101.132,
+      "close": 101.6707,
+      "high": 101.8227,
+      "low": 100.9885,
+      "candle_number": 32,
+      "color": "green"
+    },
+    {
+      "open": 101.6707,
+      "close": 102.1255,
+      "high": 102.3058,
+      "low": 101.5707,
+      "candle_number": 33,
+      "color": "green"
+    },
+    {
+      "open": 102.1255,
+      "close": 101.8628,
+      "high": 102.2726,
+      "low": 101.6052,
+      "candle_number": 34,
+      "color": "red"
+    },
+    {
+      "open": 101.8628,
+      "close": 102.5457,
+      "high": 102.9549,
+      "low": 101.5135,
+      "candle_number": 35,
+      "color": "green"
+    },
+    {
+      "open": 102.5457,
+      "close": 102.5274,
+      "high": 102.6979,
+      "low": 102.4068,
+      "candle_number": 36,
+      "color": "red"
+    },
+    {
+      "open": 102.5274,
+      "close": 101.7661,
+      "high": 102.7752,
+      "low": 101.4899,
+      "candle_number": 37,
+      "color": "red"
+    },
+    {
+      "open": 101.7661,
+      "close": 100.6484,
+      "high": 102.0268,
+      "low": 100.2611,
+      "candle_number": 38,
+      "color": "red"
+    },
+    {
+      "open": 100.6484,
+      "close": 100.2306,
+      "high": 100.828,
+      "low": 100.0676,
+      "candle_number": 39,
+      "color": "red"
+    },
+    {
+      "open": 100.2306,
+      "close": 100.7084,
+      "high": 100.8339,
+      "low": 100.0105,
+      "candle_number": 40,
+      "color": "green"
+    },
+    {
+      "open": 100.7084,
+      "close": 100.0669,
+      "high": 101.0171,
+      "low": 99.6532,
+      "candle_number": 41,
+      "color": "red"
+    },
+    {
+      "open": 100.0669,
+      "close": 100.7663,
+      "high": 100.9837,
+      "low": 99.7708,
+      "candle_number": 42,
+      "color": "green"
+    },
+    {
+      "open": 100.7663,
+      "close": 101.4331,
+      "high": 101.7927,
+      "low": 100.3435,
+      "candle_number": 43,
+      "color": "green"
+    },
+    {
+      "open": 101.4331,
+      "close": 101.8144,
+      "high": 101.9754,
+      "low": 101.2295,
+      "candle_number": 44,
+      "color": "green"
+    },
+    {
+      "open": 101.8144,
+      "close": 100.7547,
+      "high": 102.1025,
+      "low": 100.3809,
+      "candle_number": 45,
+      "color": "red"
+    },
+    {
+      "open": 100.7547,
+      "close": 101.4989,
+      "high": 101.7237,
+      "low": 100.4895,
+      "candle_number": 46,
+      "color": "green"
+    },
+    {
+      "open": 101.4989,
+      "close": 101.9594,
+      "high": 102.1393,
+      "low": 101.3746,
+      "candle_number": 47,
+      "color": "green"
+    },
+    {
+      "open": 101.9594,
+      "close": 102.739,
+      "high": 103.1804,
+      "low": 101.6486,
+      "candle_number": 48,
+      "color": "green"
+    },
+    {
+      "open": 102.739,
+      "close": 101.5102,
+      "high": 102.9697,
+      "low": 101.265,
+      "candle_number": 49,
+      "color": "red"
+    },
+    {
+      "open": 101.5102,
+      "close": 103.1985,
+      "high": 104.2971,
+      "low": 100.726,
+      "candle_number": 50,
+      "color": "green"
+    }
+  ]
+}

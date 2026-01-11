@@ -1,0 +1,43 @@
+trade-stage/
+├── backend/                             # 1 Backend-часть
+│    ├── components/
+│    │    ├── ...
+│    │    └── ...
+│    ├── processes/
+│    │    ├── impuls/
+│    │    │    ├── impuls_detect.py
+│    │    │    └── impuls_main.py
+│    │    │
+│    │    ├── liquidity/
+│    │    │    ├── liquidity_detect.py
+│    │    │    └── liquidity_main
+│    │    │
+│    │    └── order_block/
+│    │        ├── order_block_detect.py
+│    │        └── order_block_main
+│    │
+│    ├── services/
+│    │    └── trading_engine
+│    │         ├── trade_louncher.py
+│    │         └── trade_main.py
+│    │
+│    ├── thread_handler.py                # Файл обработки процессов
+│    └── README.md
+│
+├── frontend/                             # 2 Frontend-часть
+│    └── ...
+│
+├── connect/                              # 3 Соединение Backend и Frontend
+│    ├── CONFIG.json                      # 3.1 Хранения статичных дынных
+│    ├── CONFIG_PROCESS.json              # 3.2 Управление процессами
+│    ├── CRATE_PRICE.json                 # 3.3 Управление процессами
+│    ├── GET_GAP.json                     # 3.4 Хранение GAP-ов
+│    ├── GET_LEVEL.json                   # 3.5 Хранение уровней
+│    ├── 1H.json                          # 3.6 Хранение уровней
+│    ├── 4H.json                          # 3.7 Хранение уровней
+│    ├── 1D.json                          # 3.8 Хранение уровней
+│    └── ...
+│
+└── docs/                                 # 4 Docs - часть
+     ├── Струтура.txt                     # Файловая струтура проэкта
+     └── README.md                        # Документация проэкта

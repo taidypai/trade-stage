@@ -1,0 +1,18 @@
+{
+  "candles": [
+    {
+      "candle_id": 0,
+      "open": 0,
+      "close": 0,
+      "heigh": 0,
+      "low": 0
+    },
+    {
+      "candle_id": 0,
+      "open": 0,
+      "close": 0,
+      "heigh": 0,
+      "low": 0
+    }
+  ]
+}
