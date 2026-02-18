@@ -1,8 +1,6 @@
 trade-stage/
-  
      ├── backend/ # Аналитическое ядро и интеграция с QUIK
-
-│ ├── components/ # Вспомогательные компоненты
+         ├── components/ # Вспомогательные компоненты
 │ │ ├── analis_candle/ # Анализ свечных паттернов
 │ │ │ ├── analis.py
 │ │ │ ├── config_init.py
